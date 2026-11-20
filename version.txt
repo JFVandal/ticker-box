@@ -1,2 +1,2 @@
-1.7
+1.8
 https://raw.githubusercontent.com/JFVandal/ticker-box/main/TickerBox_Portail.ino.esp32.bin
